@@ -1,0 +1,4 @@
+repository "FInal_Huawei_Equipe1/FInal_Huawei_Equipe1@4674117523514@cloud"
+  path "/"
+    br "/main"
+    co "/main"
